@@ -18,7 +18,8 @@ main {
     display: flex;
     justify-content: space-around;
     margin: 20px;
-    background:green;
+
+    background:blue;
     box-shadow: black 4px 4px 4px 4px;
 }
 
