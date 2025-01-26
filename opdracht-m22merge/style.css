@@ -18,6 +18,8 @@ main {
     display: flex;
     justify-content: space-around;
     margin: 20px;
+    background:purple;
+    box-shadow: black 4px 4px 4px 4px;
 }
 
 article {
